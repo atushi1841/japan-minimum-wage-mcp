@@ -1,10 +1,19 @@
 {
-  "title": "Japan Minimum Wage MCP output",
-  "type": "object",
+  "actorOutputSchemaVersion": 1,
+  "title": "Output schema of the Japan Minimum Wage MCP server",
+  "description": "MCP server (Standby mode): tool responses are returned over the MCP streamable-HTTP protocol as structuredContent (prefecture, amount JPY/hour, fiscal_year, effective_date, increase). This schema exposes the live server container as the run output.",
   "properties": {
-    "prefecture": { "type": "string", "title": "Prefecture", "description": "Prefecture name" },
-    "amount": { "type": "integer", "title": "Amount (JPY/hour)" },
-    "fiscal_year": { "type": "string", "title": "Fiscal year" },
-    "effective_date": { "type": "string", "title": "Effective date" }
+    "mcp_endpoint": {
+      "type": "string",
+      "title": "MCP server endpoint",
+      "description": "Streamable-HTTP MCP endpoint of this run's Standby container (append /mcp, Bearer Apify token required).",
+      "template": "{{run.containerUrl}}"
+    },
+    "run_output": {
+      "type": "string",
+      "title": "Run details",
+      "description": "Console view of this run (MCP servers return results inline over the protocol, not via dataset).",
+      "template": "{{links.publicRunUrl}}"
+    }
   }
 }
