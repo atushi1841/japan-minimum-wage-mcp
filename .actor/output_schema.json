@@ -1,0 +1,10 @@
+{
+  "title": "Japan Minimum Wage MCP output",
+  "type": "object",
+  "properties": {
+    "prefecture": { "type": "string", "title": "Prefecture", "description": "Prefecture name" },
+    "amount": { "type": "integer", "title": "Amount (JPY/hour)" },
+    "fiscal_year": { "type": "string", "title": "Fiscal year" },
+    "effective_date": { "type": "string", "title": "Effective date" }
+  }
+}

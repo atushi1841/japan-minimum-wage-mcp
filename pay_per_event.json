@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "eventTitle": "minimum-wage-latest",
+      "eventDescription": "Current minimum wage for a prefecture (latest fiscal year)",
+      "eventPriceUsd": 0.001,
+      "isPrimaryEvent": true
+    },
+    {
+      "eventTitle": "minimum-wage-history",
+      "eventDescription": "Revision history for a prefecture over recent fiscal years",
+      "eventPriceUsd": 0.001,
+      "isPrimaryEvent": true
+    },
+    {
+      "eventTitle": "minimum-wage-rank",
+      "eventDescription": "Cheapest/most-expensive prefecture ranking",
+      "eventPriceUsd": 0.001,
+      "isPrimaryEvent": true
+    }
+  ]
+}

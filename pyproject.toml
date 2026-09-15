@@ -1,0 +1,17 @@
+[project]
+name = "japan-minimum-wage-mcp"
+version = "0.1.0"
+description = "MCP server: Japan regional minimum wages (47 prefectures) from MHLW official statistics"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=3.0.0,<4.0.0",
+    "mcp>=1.25.0,<2.0.0",
+    "openpyxl>=3.1.0",
+    "uvicorn>=0.30.0",
+    "starlette",
+    "pydantic",
+]
+
+[tool.uv]
+package = false

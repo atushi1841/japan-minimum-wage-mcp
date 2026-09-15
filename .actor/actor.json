@@ -1,0 +1,28 @@
+{
+  "$schema": "https://apify.com/schemas/v1/actor.ide.json",
+  "actorSpecification": 1,
+  "name": "japan-minimum-wage-mcp",
+  "title": "Japan Minimum Wage MCP — MHLW Regional Minimum Wages (47 prefectures)",
+  "description": "MCPサーバー — 厚生労働省公式統計から、日本の47都道府県の地域別最低賃金（時間額・引上げ額・発効日）と過去24年度の改定履歴を、AIエージェント（Claude, ChatGPT等）からMCPツールとして呼び出せます。最新値・履歴・安い順ランキング。",
+  "version": "0.1",
+  "buildTag": "latest",
+  "usesStandbyMode": true,
+  "webServerMcpPath": "/mcp",
+  "output": "./output_schema.json",
+  "meta": {
+    "templateId": "python-mcp-apify-actors"
+  },
+  "input": {
+    "title": "Actor input schema",
+    "description": "MCPサーバーはStandbyモードで動作 — 入力はMCPツール呼び出し経由で行われ、Actor入力からは受け取りません。",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {},
+    "required": []
+  },
+  "dockerfile": "../Dockerfile",
+  "categories": [
+    "MCP_SERVERS",
+    "DATA_EXTRACTION"
+  ]
+}

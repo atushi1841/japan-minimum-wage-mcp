@@ -1,0 +1,6051 @@
+{
+  "fiscal_years": [
+    "平成14年度",
+    "平成15年度",
+    "平成16年度",
+    "平成17年度",
+    "平成18年度",
+    "平成19年度",
+    "平成20年度",
+    "平成21年度",
+    "平成22年度",
+    "平成23年度",
+    "平成24年度",
+    "平成25年度",
+    "平成26年度",
+    "平成27年度",
+    "平成28年度",
+    "平成29年度",
+    "平成30年度",
+    "令和元年度",
+    "令和２年度",
+    "令和３年度",
+    "令和４年度",
+    "令和５年度",
+    "令和６年度",
+    "令和７年度"
+  ],
+  "latest_fiscal_year": "令和７年度",
+  "national_weighted_average": 1121,
+  "source_updated": "2026-09-15T09:11:38",
+  "prefectures_latest": {
+    "北海道": {
+      "amount": 1075,
+      "previous_amount": 1010,
+      "effective_date": "2025-10-04",
+      "fiscal_year": "令和７年度"
+    },
+    "青森": {
+      "amount": 1029,
+      "previous_amount": 953,
+      "effective_date": "2025-11-21",
+      "fiscal_year": "令和７年度"
+    },
+    "岩手": {
+      "amount": 1031,
+      "previous_amount": 952,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    },
+    "宮城": {
+      "amount": 1038,
+      "previous_amount": 973,
+      "effective_date": "2025-10-04",
+      "fiscal_year": "令和７年度"
+    },
+    "秋田": {
+      "amount": 1031,
+      "previous_amount": 951,
+      "effective_date": "2026-03-31",
+      "fiscal_year": "令和７年度"
+    },
+    "山形": {
+      "amount": 1032,
+      "previous_amount": 955,
+      "effective_date": "2025-12-23",
+      "fiscal_year": "令和７年度"
+    },
+    "福島": {
+      "amount": 1033,
+      "previous_amount": 955,
+      "effective_date": "2026-01-01",
+      "fiscal_year": "令和７年度"
+    },
+    "茨城": {
+      "amount": 1074,
+      "previous_amount": 1005,
+      "effective_date": "2025-10-12",
+      "fiscal_year": "令和７年度"
+    },
+    "栃木": {
+      "amount": 1068,
+      "previous_amount": 1004,
+      "effective_date": "2025-10-01",
+      "fiscal_year": "令和７年度"
+    },
+    "群馬": {
+      "amount": 1063,
+      "previous_amount": 985,
+      "effective_date": "2026-03-01",
+      "fiscal_year": "令和７年度"
+    },
+    "埼玉": {
+      "amount": 1141,
+      "previous_amount": 1078,
+      "effective_date": "2025-11-01",
+      "fiscal_year": "令和７年度"
+    },
+    "千葉": {
+      "amount": 1140,
+      "previous_amount": 1076,
+      "effective_date": "2025-10-03",
+      "fiscal_year": "令和７年度"
+    },
+    "東京": {
+      "amount": 1226,
+      "previous_amount": 1163,
+      "effective_date": "2025-10-03",
+      "fiscal_year": "令和７年度"
+    },
+    "神奈川": {
+      "amount": 1225,
+      "previous_amount": 1162,
+      "effective_date": "2025-10-04",
+      "fiscal_year": "令和７年度"
+    },
+    "新潟": {
+      "amount": 1050,
+      "previous_amount": 985,
+      "effective_date": "2025-10-02",
+      "fiscal_year": "令和７年度"
+    },
+    "富山": {
+      "amount": 1062,
+      "previous_amount": 998,
+      "effective_date": "2025-10-12",
+      "fiscal_year": "令和７年度"
+    },
+    "石川": {
+      "amount": 1054,
+      "previous_amount": 984,
+      "effective_date": "2025-10-08",
+      "fiscal_year": "令和７年度"
+    },
+    "福井": {
+      "amount": 1053,
+      "previous_amount": 984,
+      "effective_date": "2025-10-08",
+      "fiscal_year": "令和７年度"
+    },
+    "山梨": {
+      "amount": 1052,
+      "previous_amount": 988,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    },
+    "長野": {
+      "amount": 1061,
+      "previous_amount": 998,
+      "effective_date": "2025-10-03",
+      "fiscal_year": "令和７年度"
+    },
+    "岐阜": {
+      "amount": 1065,
+      "previous_amount": 1001,
+      "effective_date": "2025-10-18",
+      "fiscal_year": "令和７年度"
+    },
+    "静岡": {
+      "amount": 1097,
+      "previous_amount": 1034,
+      "effective_date": "2025-11-01",
+      "fiscal_year": "令和７年度"
+    },
+    "愛知": {
+      "amount": 1140,
+      "previous_amount": 1077,
+      "effective_date": "2025-10-18",
+      "fiscal_year": "令和７年度"
+    },
+    "三重": {
+      "amount": 1087,
+      "previous_amount": 1023,
+      "effective_date": "2025-11-21",
+      "fiscal_year": "令和７年度"
+    },
+    "滋賀": {
+      "amount": 1080,
+      "previous_amount": 1017,
+      "effective_date": "2025-10-05",
+      "fiscal_year": "令和７年度"
+    },
+    "京都": {
+      "amount": 1122,
+      "previous_amount": 1058,
+      "effective_date": "2025-11-21",
+      "fiscal_year": "令和７年度"
+    },
+    "大阪": {
+      "amount": 1177,
+      "previous_amount": 1114,
+      "effective_date": "2025-10-16",
+      "fiscal_year": "令和７年度"
+    },
+    "兵庫": {
+      "amount": 1116,
+      "previous_amount": 1052,
+      "effective_date": "2025-10-04",
+      "fiscal_year": "令和７年度"
+    },
+    "奈良": {
+      "amount": 1051,
+      "previous_amount": 986,
+      "effective_date": "2025-11-16",
+      "fiscal_year": "令和７年度"
+    },
+    "和歌山": {
+      "amount": 1045,
+      "previous_amount": 980,
+      "effective_date": "2025-11-01",
+      "fiscal_year": "令和７年度"
+    },
+    "鳥取": {
+      "amount": 1030,
+      "previous_amount": 957,
+      "effective_date": "2025-10-04",
+      "fiscal_year": "令和７年度"
+    },
+    "島根": {
+      "amount": 1033,
+      "previous_amount": 962,
+      "effective_date": "2025-11-17",
+      "fiscal_year": "令和７年度"
+    },
+    "岡山": {
+      "amount": 1047,
+      "previous_amount": 982,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    },
+    "広島": {
+      "amount": 1085,
+      "previous_amount": 1020,
+      "effective_date": "2025-11-01",
+      "fiscal_year": "令和７年度"
+    },
+    "山口": {
+      "amount": 1043,
+      "previous_amount": 979,
+      "effective_date": "2025-10-16",
+      "fiscal_year": "令和７年度"
+    },
+    "徳島": {
+      "amount": 1046,
+      "previous_amount": 980,
+      "effective_date": "2026-01-01",
+      "fiscal_year": "令和７年度"
+    },
+    "香川": {
+      "amount": 1036,
+      "previous_amount": 970,
+      "effective_date": "2025-10-18",
+      "fiscal_year": "令和７年度"
+    },
+    "愛媛": {
+      "amount": 1033,
+      "previous_amount": 956,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    },
+    "高知": {
+      "amount": 1023,
+      "previous_amount": 952,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    },
+    "福岡": {
+      "amount": 1057,
+      "previous_amount": 992,
+      "effective_date": "2025-11-16",
+      "fiscal_year": "令和７年度"
+    },
+    "佐賀": {
+      "amount": 1030,
+      "previous_amount": 956,
+      "effective_date": "2025-11-21",
+      "fiscal_year": "令和７年度"
+    },
+    "長崎": {
+      "amount": 1031,
+      "previous_amount": 953,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    },
+    "熊本": {
+      "amount": 1034,
+      "previous_amount": 952,
+      "effective_date": "2026-01-01",
+      "fiscal_year": "令和７年度"
+    },
+    "大分": {
+      "amount": 1035,
+      "previous_amount": 954,
+      "effective_date": "2026-01-01",
+      "fiscal_year": "令和７年度"
+    },
+    "宮崎": {
+      "amount": 1023,
+      "previous_amount": 952,
+      "effective_date": "2025-11-16",
+      "fiscal_year": "令和７年度"
+    },
+    "鹿児島": {
+      "amount": 1026,
+      "previous_amount": 953,
+      "effective_date": "2025-11-01",
+      "fiscal_year": "令和７年度"
+    },
+    "沖縄": {
+      "amount": 1023,
+      "previous_amount": 952,
+      "effective_date": "2025-12-01",
+      "fiscal_year": "令和７年度"
+    }
+  },
+  "history": {
+    "北海道": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 637,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 637,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 638,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 641,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 644,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 654,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 667,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 678,
+        "effective_date": "2009-10-10"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 691,
+        "effective_date": "2010-10-15"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 705,
+        "effective_date": "2011-10-06"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 719,
+        "effective_date": "2012-10-18"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 734,
+        "effective_date": "2013-10-18"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 748,
+        "effective_date": "2014-10-08"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 764,
+        "effective_date": "2015-10-08"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 786,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 810,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 835,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 861,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 861,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 889,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 920,
+        "effective_date": "2022-10-02"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 960,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1010,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1075,
+        "effective_date": "2025-10-04"
+      }
+    ],
+    "青森": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 610,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 619,
+        "effective_date": "2007-10-31"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 630,
+        "effective_date": "2008-10-29"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 633,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 645,
+        "effective_date": "2010-10-29"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-16"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 654,
+        "effective_date": "2012-10-12"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 665,
+        "effective_date": "2013-10-24"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 679,
+        "effective_date": "2014-10-24"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 695,
+        "effective_date": "2015-10-18"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 716,
+        "effective_date": "2016-10-20"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 738,
+        "effective_date": "2017-10-06"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-04"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 822,
+        "effective_date": "2021-10-06"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-05"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 898,
+        "effective_date": "2023-10-07"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 953,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1029,
+        "effective_date": "2025-11-21"
+      }
+    ],
+    "岩手": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 610,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 619,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 628,
+        "effective_date": "2008-10-30"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 631,
+        "effective_date": "2009-10-04"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 644,
+        "effective_date": "2010-10-30"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 645,
+        "effective_date": "2011-11-11"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-20"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 665,
+        "effective_date": "2013-10-27"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 678,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 695,
+        "effective_date": "2015-10-16"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 716,
+        "effective_date": "2016-10-05"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 738,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 854,
+        "effective_date": "2022-10-20"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 893,
+        "effective_date": "2023-10-04"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 952,
+        "effective_date": "2024-10-27"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1031,
+        "effective_date": "2025-12-01"
+      }
+    ],
+    "宮城": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 617,
+        "effective_date": "2002-10-02"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 617,
+        "effective_date": "2002-10-02"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 619,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 623,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 628,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 639,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 653,
+        "effective_date": "2008-10-24"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 662,
+        "effective_date": "2009-10-24"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 674,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 675,
+        "effective_date": "2011-10-29"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 685,
+        "effective_date": "2012-10-19"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 696,
+        "effective_date": "2013-10-31"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 710,
+        "effective_date": "2014-10-16"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 726,
+        "effective_date": "2015-10-03"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 748,
+        "effective_date": "2016-10-05"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 772,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 798,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 824,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 825,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 853,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 883,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 923,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 973,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1038,
+        "effective_date": "2025-10-04"
+      }
+    ],
+    "秋田": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-09-30"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-09-30"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 610,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 618,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 629,
+        "effective_date": "2008-11-02"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 632,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 645,
+        "effective_date": "2010-11-03"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-30"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 654,
+        "effective_date": "2012-10-13"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 665,
+        "effective_date": "2013-10-26"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 679,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 695,
+        "effective_date": "2015-10-07"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 716,
+        "effective_date": "2016-10-06"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 738,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 822,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 897,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 951,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1031,
+        "effective_date": "2026-03-31"
+      }
+    ],
+    "山形": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 606,
+        "effective_date": "2003-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 607,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 610,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 613,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 620,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 629,
+        "effective_date": "2008-10-30"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 631,
+        "effective_date": "2009-10-18"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 645,
+        "effective_date": "2010-10-29"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-29"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 654,
+        "effective_date": "2012-10-24"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 665,
+        "effective_date": "2013-10-24"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 680,
+        "effective_date": "2014-10-17"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 696,
+        "effective_date": "2015-10-16"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 717,
+        "effective_date": "2016-10-07"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 739,
+        "effective_date": "2017-10-06"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 763,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 822,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 854,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 900,
+        "effective_date": "2023-10-14"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 955,
+        "effective_date": "2024-10-19"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1032,
+        "effective_date": "2025-12-23"
+      }
+    ],
+    "福島": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 610,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 610,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 611,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 614,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 618,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 629,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 641,
+        "effective_date": "2008-10-22"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 644,
+        "effective_date": "2009-10-18"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 657,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 658,
+        "effective_date": "2011-11-02"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 664,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 675,
+        "effective_date": "2013-10-06"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 689,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 705,
+        "effective_date": "2015-10-03"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 726,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 748,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 772,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 798,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 800,
+        "effective_date": "2020-10-02"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 828,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 858,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 900,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 955,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1033,
+        "effective_date": "2026-01-01"
+      }
+    ],
+    "茨城": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 647,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 647,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 648,
+        "effective_date": "2004-10-17"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 651,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 655,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 665,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 676,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 678,
+        "effective_date": "2009-10-08"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 690,
+        "effective_date": "2010-10-16"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 692,
+        "effective_date": "2011-10-08"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 699,
+        "effective_date": "2012-10-06"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 713,
+        "effective_date": "2013-10-20"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 729,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 747,
+        "effective_date": "2015-10-04"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 771,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 796,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 822,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 849,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 851,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 879,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 911,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 953,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1005,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1074,
+        "effective_date": "2025-10-12"
+      }
+    ],
+    "栃木": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 648,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 648,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 649,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 652,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 657,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 671,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 683,
+        "effective_date": "2008-10-20"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 685,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 697,
+        "effective_date": "2010-10-07"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 700,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 705,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 718,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 733,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 751,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 775,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 800,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 826,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 853,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 854,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 882,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 913,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 954,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1004,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1068,
+        "effective_date": "2025-10-01"
+      }
+    ],
+    "群馬": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 644,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 644,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 645,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 649,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 654,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 664,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 675,
+        "effective_date": "2008-10-16"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 676,
+        "effective_date": "2009-10-04"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 688,
+        "effective_date": "2010-10-09"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 690,
+        "effective_date": "2011-10-07"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 696,
+        "effective_date": "2012-10-10"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 707,
+        "effective_date": "2013-10-13"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 721,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 737,
+        "effective_date": "2015-10-08"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 759,
+        "effective_date": "2016-10-06"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 783,
+        "effective_date": "2017-10-07"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 809,
+        "effective_date": "2018-10-06"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 835,
+        "effective_date": "2019-10-06"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 837,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 865,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 895,
+        "effective_date": "2022-10-08"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 935,
+        "effective_date": "2023-10-05"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 985,
+        "effective_date": "2024-10-04"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1063,
+        "effective_date": "2026-03-01"
+      }
+    ],
+    "埼玉": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 678,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 678,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 679,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 682,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 687,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 702,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 722,
+        "effective_date": "2008-10-17"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 735,
+        "effective_date": "2009-10-17"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 750,
+        "effective_date": "2010-10-16"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 759,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 771,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 785,
+        "effective_date": "2013-10-20"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 802,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 820,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 845,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 871,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 898,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 926,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 928,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 956,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 987,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1028,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1078,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1141,
+        "effective_date": "2025-11-01"
+      }
+    ],
+    "千葉": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 677,
+        "effective_date": "2002-10-04"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 677,
+        "effective_date": "2002-10-04"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 678,
+        "effective_date": "2004-10-04"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 682,
+        "effective_date": "2005-10-04"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 687,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 706,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 723,
+        "effective_date": "2008-10-31"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 728,
+        "effective_date": "2009-10-03"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 744,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 748,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 756,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 777,
+        "effective_date": "2013-10-18"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 798,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 817,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 842,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 868,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 895,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 923,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 925,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 953,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 984,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1026,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1076,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1140,
+        "effective_date": "2025-10-03"
+      }
+    ],
+    "東京": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 708,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 708,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 710,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 714,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 719,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 739,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 766,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 791,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 821,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 837,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 850,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 869,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 888,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 907,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 932,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 958,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 985,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 1013,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 1013,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 1041,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 1072,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1113,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1163,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1226,
+        "effective_date": "2025-10-03"
+      }
+    ],
+    "神奈川": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 706,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 707,
+        "effective_date": "2003-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 708,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 712,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 717,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 736,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 766,
+        "effective_date": "2008-10-25"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 789,
+        "effective_date": "2009-10-25"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 818,
+        "effective_date": "2010-10-21"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 836,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 849,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 868,
+        "effective_date": "2013-10-20"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 887,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 905,
+        "effective_date": "2015-10-18"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 930,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 956,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 983,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 1011,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 1012,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 1040,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 1071,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1112,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1162,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1225,
+        "effective_date": "2025-10-04"
+      }
+    ],
+    "新潟": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 641,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 641,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 642,
+        "effective_date": "2004-09-30"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 645,
+        "effective_date": "2005-09-30"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 648,
+        "effective_date": "2006-09-30"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 657,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 669,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 669,
+        "effective_date": "2009-10-26"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 681,
+        "effective_date": "2010-10-21"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 683,
+        "effective_date": "2011-10-07"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 689,
+        "effective_date": "2012-10-05"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 701,
+        "effective_date": "2013-10-26"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 715,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 731,
+        "effective_date": "2015-10-03"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 753,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 778,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 803,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 830,
+        "effective_date": "2019-10-06"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 831,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 859,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 890,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 931,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 985,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1050,
+        "effective_date": "2025-10-02"
+      }
+    ],
+    "富山": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 644,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 644,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 644,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 648,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 652,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 666,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 677,
+        "effective_date": "2008-10-25"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 679,
+        "effective_date": "2009-10-18"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 691,
+        "effective_date": "2010-10-27"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 692,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 700,
+        "effective_date": "2012-11-04"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 712,
+        "effective_date": "2013-10-06"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 728,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 746,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 770,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 795,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 821,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 848,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 849,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 877,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 908,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 948,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 998,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1062,
+        "effective_date": "2025-10-12"
+      }
+    ],
+    "石川": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 645,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 645,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 646,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 649,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 652,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 662,
+        "effective_date": "2007-10-21"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 673,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 674,
+        "effective_date": "2009-10-10"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 686,
+        "effective_date": "2010-10-30"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 687,
+        "effective_date": "2011-10-20"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 693,
+        "effective_date": "2012-10-06"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 704,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 718,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 735,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 757,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 781,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 806,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 832,
+        "effective_date": "2019-10-02"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 833,
+        "effective_date": "2020-10-07"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 861,
+        "effective_date": "2021-10-07"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 891,
+        "effective_date": "2022-10-08"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 933,
+        "effective_date": "2023-10-08"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 984,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1054,
+        "effective_date": "2025-10-08"
+      }
+    ],
+    "福井": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 642,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 642,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 643,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 645,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 649,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 659,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 670,
+        "effective_date": "2008-10-22"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 671,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 683,
+        "effective_date": "2010-10-21"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 684,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 690,
+        "effective_date": "2012-10-06"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 701,
+        "effective_date": "2013-10-13"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 716,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 732,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 754,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 778,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 803,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 829,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 830,
+        "effective_date": "2020-10-02"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 858,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 888,
+        "effective_date": "2022-10-02"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 931,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 984,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1053,
+        "effective_date": "2025-10-08"
+      }
+    ],
+    "山梨": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 647,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 647,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 648,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 651,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 655,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 665,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 676,
+        "effective_date": "2008-10-25"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 677,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 689,
+        "effective_date": "2010-10-17"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 690,
+        "effective_date": "2011-10-20"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 695,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 706,
+        "effective_date": "2013-10-18"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 721,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 737,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 759,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 784,
+        "effective_date": "2017-10-14"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 810,
+        "effective_date": "2018-10-03"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 837,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 838,
+        "effective_date": "2020-10-09"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 866,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 898,
+        "effective_date": "2022-10-20"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 938,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 988,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1052,
+        "effective_date": "2025-12-01"
+      }
+    ],
+    "長野": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 646,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 646,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 647,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 650,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 655,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 669,
+        "effective_date": "2007-10-21"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 680,
+        "effective_date": "2008-10-16"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 681,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 693,
+        "effective_date": "2010-10-29"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 694,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 700,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 713,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 728,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 746,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 770,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 795,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 821,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 848,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 849,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 877,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 908,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 948,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 998,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1061,
+        "effective_date": "2025-10-03"
+      }
+    ],
+    "岐阜": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 668,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 668,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 669,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 671,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 675,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 685,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 696,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 696,
+        "effective_date": "2009-10-19"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 706,
+        "effective_date": "2010-10-17"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 707,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 713,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 724,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 738,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 754,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 776,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 800,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 825,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 851,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 852,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 880,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 910,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 950,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1001,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1065,
+        "effective_date": "2025-10-18"
+      }
+    ],
+    "静岡": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 671,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 671,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 673,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 677,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 682,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 697,
+        "effective_date": "2007-10-26"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 711,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 713,
+        "effective_date": "2009-10-26"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 725,
+        "effective_date": "2010-10-14"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 728,
+        "effective_date": "2011-10-14"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 735,
+        "effective_date": "2012-10-12"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 749,
+        "effective_date": "2013-10-12"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 765,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 783,
+        "effective_date": "2015-10-03"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 807,
+        "effective_date": "2016-10-05"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 832,
+        "effective_date": "2017-10-04"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 858,
+        "effective_date": "2018-10-03"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 885,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 885,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 913,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 944,
+        "effective_date": "2022-10-05"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 984,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1034,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1097,
+        "effective_date": "2025-11-01"
+      }
+    ],
+    "愛知": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 681,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 681,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 683,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 688,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 694,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 714,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 731,
+        "effective_date": "2008-10-24"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 732,
+        "effective_date": "2009-10-11"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 745,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 750,
+        "effective_date": "2011-10-07"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 758,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 780,
+        "effective_date": "2013-10-26"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 800,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 820,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 845,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 871,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 898,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 926,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 927,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 955,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 986,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1027,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1077,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1140,
+        "effective_date": "2025-10-18"
+      }
+    ],
+    "三重": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 667,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 667,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 668,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 671,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 675,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 689,
+        "effective_date": "2007-10-27"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 701,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 702,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 714,
+        "effective_date": "2010-10-22"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 717,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 724,
+        "effective_date": "2012-09-30"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 737,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 753,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 771,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 795,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 820,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 846,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 873,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 874,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 902,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 933,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 973,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1023,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1087,
+        "effective_date": "2025-11-21"
+      }
+    ],
+    "滋賀": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 651,
+        "effective_date": "2002-09-29"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 651,
+        "effective_date": "2002-09-29"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 652,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 657,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 662,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 677,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 691,
+        "effective_date": "2008-10-18"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 693,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 706,
+        "effective_date": "2010-10-21"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 709,
+        "effective_date": "2011-10-20"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 716,
+        "effective_date": "2012-10-06"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 730,
+        "effective_date": "2013-10-25"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 746,
+        "effective_date": "2014-10-09"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 764,
+        "effective_date": "2015-10-08"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 788,
+        "effective_date": "2016-10-06"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 813,
+        "effective_date": "2017-10-05"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 839,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 866,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 868,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 896,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 927,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 967,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1017,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1080,
+        "effective_date": "2025-10-05"
+      }
+    ],
+    "京都": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 677,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 677,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 678,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 682,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 686,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 700,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 717,
+        "effective_date": "2008-10-25"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 729,
+        "effective_date": "2009-10-17"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 749,
+        "effective_date": "2010-10-17"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 751,
+        "effective_date": "2011-10-16"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 759,
+        "effective_date": "2012-10-14"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 773,
+        "effective_date": "2013-10-24"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 789,
+        "effective_date": "2014-10-22"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 807,
+        "effective_date": "2015-10-07"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 831,
+        "effective_date": "2016-10-02"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 856,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 882,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 909,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 909,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 937,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 968,
+        "effective_date": "2022-10-09"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1008,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1058,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1122,
+        "effective_date": "2025-11-21"
+      }
+    ],
+    "大阪": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 703,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 703,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 704,
+        "effective_date": "2004-09-30"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 708,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 712,
+        "effective_date": "2006-09-30"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 731,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 748,
+        "effective_date": "2008-10-18"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 762,
+        "effective_date": "2009-09-30"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 779,
+        "effective_date": "2010-10-15"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 786,
+        "effective_date": "2011-09-30"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 800,
+        "effective_date": "2012-09-30"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 819,
+        "effective_date": "2013-10-18"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 838,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 858,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 883,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 909,
+        "effective_date": "2017-09-30"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 936,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 964,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 964,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 992,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 1023,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1064,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1114,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1177,
+        "effective_date": "2025-10-16"
+      }
+    ],
+    "兵庫": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 675,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 675,
+        "effective_date": "2002-09-30"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 676,
+        "effective_date": "2004-09-30"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 679,
+        "effective_date": "2005-09-30"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 683,
+        "effective_date": "2006-09-30"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 697,
+        "effective_date": "2007-10-31"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 712,
+        "effective_date": "2008-10-22"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 721,
+        "effective_date": "2009-10-08"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 734,
+        "effective_date": "2010-10-17"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 739,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 749,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 761,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 776,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 794,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 819,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 844,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 871,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 899,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 900,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 928,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 960,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 1001,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1052,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1116,
+        "effective_date": "2025-10-04"
+      }
+    ],
+    "奈良": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 647,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 647,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 648,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 652,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 656,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 667,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 678,
+        "effective_date": "2008-10-25"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 679,
+        "effective_date": "2009-10-17"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 691,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 693,
+        "effective_date": "2011-10-07"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 699,
+        "effective_date": "2012-10-06"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 710,
+        "effective_date": "2013-10-20"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 724,
+        "effective_date": "2014-10-03"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 740,
+        "effective_date": "2015-10-07"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 762,
+        "effective_date": "2016-10-06"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 786,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 811,
+        "effective_date": "2018-10-04"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 837,
+        "effective_date": "2019-10-05"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 838,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 866,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 896,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 936,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 986,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1051,
+        "effective_date": "2025-11-16"
+      }
+    ],
+    "和歌山": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 645,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 645,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 645,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 649,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 652,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 662,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 673,
+        "effective_date": "2008-10-31"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 674,
+        "effective_date": "2009-10-31"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 684,
+        "effective_date": "2010-10-29"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 685,
+        "effective_date": "2011-10-13"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 690,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 701,
+        "effective_date": "2013-10-19"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 715,
+        "effective_date": "2014-10-17"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 731,
+        "effective_date": "2015-10-02"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 753,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 777,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 803,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 830,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 831,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 859,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 889,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 929,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 980,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1045,
+        "effective_date": "2025-11-01"
+      }
+    ],
+    "鳥取": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 610,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 610,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 611,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 612,
+        "effective_date": "2005-10-07"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 614,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 621,
+        "effective_date": "2007-10-21"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 629,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 630,
+        "effective_date": "2009-10-08"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-10-31"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 646,
+        "effective_date": "2011-10-29"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-20"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-25"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-08"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 693,
+        "effective_date": "2015-10-04"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-12"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 738,
+        "effective_date": "2017-10-06"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-05"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-05"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-02"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-06"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 854,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 900,
+        "effective_date": "2023-10-05"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 957,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1030,
+        "effective_date": "2025-10-04"
+      }
+    ],
+    "島根": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 609,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 609,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 610,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 612,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 614,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 621,
+        "effective_date": "2007-10-19"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 629,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 630,
+        "effective_date": "2009-10-04"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 646,
+        "effective_date": "2011-11-06"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 652,
+        "effective_date": "2012-10-14"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-11-06"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 679,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 696,
+        "effective_date": "2015-10-04"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 718,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 740,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 764,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 824,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 857,
+        "effective_date": "2022-10-05"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 904,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 962,
+        "effective_date": "2024-10-12"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1033,
+        "effective_date": "2025-11-17"
+      }
+    ],
+    "岡山": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 640,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 640,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 641,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 644,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 648,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 658,
+        "effective_date": "2007-10-26"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 669,
+        "effective_date": "2008-10-18"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 670,
+        "effective_date": "2009-10-08"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 683,
+        "effective_date": "2010-11-05"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 685,
+        "effective_date": "2011-10-27"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 691,
+        "effective_date": "2012-10-24"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 703,
+        "effective_date": "2013-10-30"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 719,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 735,
+        "effective_date": "2015-10-02"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 757,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 781,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 807,
+        "effective_date": "2018-10-03"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 833,
+        "effective_date": "2019-10-02"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 834,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 862,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 892,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 932,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 982,
+        "effective_date": "2024-10-02"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1047,
+        "effective_date": "2025-12-01"
+      }
+    ],
+    "広島": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 644,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 644,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 645,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 649,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 654,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 669,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 683,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 692,
+        "effective_date": "2009-10-08"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 704,
+        "effective_date": "2010-10-30"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 710,
+        "effective_date": "2011-10-01"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 719,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 733,
+        "effective_date": "2013-10-24"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 750,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 769,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 793,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 818,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 844,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 871,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 871,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 899,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 930,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 970,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 1020,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1085,
+        "effective_date": "2025-11-01"
+      }
+    ],
+    "山口": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 637,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 637,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 638,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 642,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 646,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 657,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 668,
+        "effective_date": "2008-10-29"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 669,
+        "effective_date": "2009-10-04"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 681,
+        "effective_date": "2010-10-29"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 684,
+        "effective_date": "2011-10-06"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 690,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 701,
+        "effective_date": "2013-10-10"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 715,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 731,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 753,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 777,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 802,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 829,
+        "effective_date": "2019-10-05"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 829,
+        "effective_date": "2019-10-05"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 857,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 888,
+        "effective_date": "2022-10-13"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 928,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 979,
+        "effective_date": "2024-10-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1043,
+        "effective_date": "2025-10-16"
+      }
+    ],
+    "徳島": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 611,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 611,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 612,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 615,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 617,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 625,
+        "effective_date": "2007-10-21"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 632,
+        "effective_date": "2008-11-07"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 633,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 645,
+        "effective_date": "2010-10-16"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-15"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 654,
+        "effective_date": "2012-10-19"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 666,
+        "effective_date": "2013-10-30"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 679,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 695,
+        "effective_date": "2015-10-04"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 716,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 740,
+        "effective_date": "2017-10-05"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 766,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 793,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 796,
+        "effective_date": "2020-10-04"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 824,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 855,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 896,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 980,
+        "effective_date": "2024-11-01"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1046,
+        "effective_date": "2026-01-01"
+      }
+    ],
+    "香川": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 618,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 619,
+        "effective_date": "2003-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 620,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 625,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 629,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 640,
+        "effective_date": "2007-10-21"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 651,
+        "effective_date": "2008-10-19"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 652,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 664,
+        "effective_date": "2010-10-16"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 667,
+        "effective_date": "2011-10-05"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 674,
+        "effective_date": "2012-10-05"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 686,
+        "effective_date": "2013-10-24"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 702,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 719,
+        "effective_date": "2015-10-01"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 742,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 766,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 792,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 818,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 820,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 848,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 878,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 918,
+        "effective_date": "2023-10-01"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 970,
+        "effective_date": "2024-10-02"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1036,
+        "effective_date": "2025-10-18"
+      }
+    ],
+    "愛媛": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 611,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 611,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 612,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 614,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 616,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 623,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 631,
+        "effective_date": "2008-10-24"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 632,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 644,
+        "effective_date": "2010-10-27"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-20"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 654,
+        "effective_date": "2012-10-24"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 666,
+        "effective_date": "2013-10-31"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 680,
+        "effective_date": "2014-10-12"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 696,
+        "effective_date": "2015-10-03"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 717,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 739,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 764,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-05"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 897,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 956,
+        "effective_date": "2024-10-13"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1033,
+        "effective_date": "2025-12-01"
+      }
+    ],
+    "高知": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 611,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 611,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 611,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 613,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 615,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 622,
+        "effective_date": "2007-10-26"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 630,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 631,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-10-27"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 645,
+        "effective_date": "2011-10-26"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 652,
+        "effective_date": "2012-10-26"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-26"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-26"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 693,
+        "effective_date": "2015-10-18"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-16"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-13"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-05"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-05"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 820,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-09"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 897,
+        "effective_date": "2023-10-08"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 952,
+        "effective_date": "2024-10-09"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1023,
+        "effective_date": "2025-12-01"
+      }
+    ],
+    "福岡": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 643,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 644,
+        "effective_date": "2003-10-19"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 645,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 648,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 652,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 663,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 675,
+        "effective_date": "2008-10-05"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 680,
+        "effective_date": "2009-10-16"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 692,
+        "effective_date": "2010-10-22"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 695,
+        "effective_date": "2011-10-15"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 701,
+        "effective_date": "2012-10-13"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 712,
+        "effective_date": "2013-10-18"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 727,
+        "effective_date": "2014-10-05"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 743,
+        "effective_date": "2015-10-04"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 765,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 789,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 814,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 841,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 842,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 870,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 900,
+        "effective_date": "2022-10-08"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 941,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 992,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1057,
+        "effective_date": "2025-11-16"
+      }
+    ],
+    "佐賀": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 611,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 619,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 628,
+        "effective_date": "2008-10-25"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 629,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-10-29"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 646,
+        "effective_date": "2011-10-06"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-21"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-26"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 678,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 694,
+        "effective_date": "2015-10-04"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-02"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-06"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-04"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-02"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-06"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-02"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 900,
+        "effective_date": "2023-10-14"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 956,
+        "effective_date": "2024-10-17"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1030,
+        "effective_date": "2025-11-21"
+      }
+    ],
+    "長崎": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-06"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-10-06"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 611,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 619,
+        "effective_date": "2007-10-21"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 628,
+        "effective_date": "2008-10-30"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 629,
+        "effective_date": "2009-10-10"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-11-04"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 646,
+        "effective_date": "2011-10-12"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-24"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-20"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 694,
+        "effective_date": "2015-10-07"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-06"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-06"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-06"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-08"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 898,
+        "effective_date": "2023-10-13"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 953,
+        "effective_date": "2024-10-12"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1031,
+        "effective_date": "2025-12-01"
+      }
+    ],
+    "熊本": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 606,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 606,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 607,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 609,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 612,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 620,
+        "effective_date": "2007-10-25"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 628,
+        "effective_date": "2008-10-17"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 630,
+        "effective_date": "2009-10-18"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 643,
+        "effective_date": "2010-11-05"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-20"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-01"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-30"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-01"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 694,
+        "effective_date": "2015-10-17"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-01"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-01"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 898,
+        "effective_date": "2023-10-08"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 952,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1034,
+        "effective_date": "2026-01-01"
+      }
+    ],
+    "大分": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 606,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 606,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 607,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 610,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 613,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 620,
+        "effective_date": "2007-10-20"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 630,
+        "effective_date": "2008-10-29"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 631,
+        "effective_date": "2009-10-01"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 643,
+        "effective_date": "2010-10-24"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-20"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-04"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-20"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-04"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 694,
+        "effective_date": "2015-10-17"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-01"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-01"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 822,
+        "effective_date": "2021-10-06"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 854,
+        "effective_date": "2022-10-05"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 899,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 954,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1035,
+        "effective_date": "2026-01-01"
+      }
+    ],
+    "宮崎": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 611,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 619,
+        "effective_date": "2007-10-27"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 627,
+        "effective_date": "2008-10-26"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 629,
+        "effective_date": "2009-10-14"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-11-04"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 646,
+        "effective_date": "2011-11-02"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-26"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-11-02"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-16"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 693,
+        "effective_date": "2015-10-16"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 714,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-06"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-05"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-04"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-06"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 897,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 952,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1023,
+        "effective_date": "2025-11-16"
+      }
+    ],
+    "鹿児島": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 611,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 619,
+        "effective_date": "2007-10-26"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 627,
+        "effective_date": "2008-10-18"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 630,
+        "effective_date": "2009-10-14"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-10-28"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 647,
+        "effective_date": "2011-10-29"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 654,
+        "effective_date": "2012-10-13"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 665,
+        "effective_date": "2013-10-27"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 678,
+        "effective_date": "2014-10-19"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 694,
+        "effective_date": "2015-10-08"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 715,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 761,
+        "effective_date": "2018-10-01"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 793,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 821,
+        "effective_date": "2021-10-02"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 897,
+        "effective_date": "2023-10-06"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 953,
+        "effective_date": "2024-10-05"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1026,
+        "effective_date": "2025-11-01"
+      }
+    ],
+    "沖縄": [
+      {
+        "fiscal_year": "平成14年度",
+        "amount": 604,
+        "effective_date": "2002-10-01"
+      },
+      {
+        "fiscal_year": "平成15年度",
+        "amount": 605,
+        "effective_date": "2003-10-01"
+      },
+      {
+        "fiscal_year": "平成16年度",
+        "amount": 606,
+        "effective_date": "2004-10-01"
+      },
+      {
+        "fiscal_year": "平成17年度",
+        "amount": 608,
+        "effective_date": "2005-10-01"
+      },
+      {
+        "fiscal_year": "平成18年度",
+        "amount": 610,
+        "effective_date": "2006-10-01"
+      },
+      {
+        "fiscal_year": "平成19年度",
+        "amount": 618,
+        "effective_date": "2007-10-28"
+      },
+      {
+        "fiscal_year": "平成20年度",
+        "amount": 627,
+        "effective_date": "2008-10-31"
+      },
+      {
+        "fiscal_year": "平成21年度",
+        "amount": 629,
+        "effective_date": "2009-10-18"
+      },
+      {
+        "fiscal_year": "平成22年度",
+        "amount": 642,
+        "effective_date": "2010-11-05"
+      },
+      {
+        "fiscal_year": "平成23年度",
+        "amount": 645,
+        "effective_date": "2011-11-06"
+      },
+      {
+        "fiscal_year": "平成24年度",
+        "amount": 653,
+        "effective_date": "2012-10-25"
+      },
+      {
+        "fiscal_year": "平成25年度",
+        "amount": 664,
+        "effective_date": "2013-10-26"
+      },
+      {
+        "fiscal_year": "平成26年度",
+        "amount": 677,
+        "effective_date": "2014-10-24"
+      },
+      {
+        "fiscal_year": "平成27年度",
+        "amount": 693,
+        "effective_date": "2015-10-09"
+      },
+      {
+        "fiscal_year": "平成28年度",
+        "amount": 714,
+        "effective_date": "2016-10-01"
+      },
+      {
+        "fiscal_year": "平成29年度",
+        "amount": 737,
+        "effective_date": "2017-10-01"
+      },
+      {
+        "fiscal_year": "平成30年度",
+        "amount": 762,
+        "effective_date": "2018-10-03"
+      },
+      {
+        "fiscal_year": "令和元年度",
+        "amount": 790,
+        "effective_date": "2019-10-03"
+      },
+      {
+        "fiscal_year": "令和２年度",
+        "amount": 792,
+        "effective_date": "2020-10-03"
+      },
+      {
+        "fiscal_year": "令和３年度",
+        "amount": 820,
+        "effective_date": "2021-10-08"
+      },
+      {
+        "fiscal_year": "令和４年度",
+        "amount": 853,
+        "effective_date": "2022-10-06"
+      },
+      {
+        "fiscal_year": "令和５年度",
+        "amount": 896,
+        "effective_date": "2023-10-08"
+      },
+      {
+        "fiscal_year": "令和６年度",
+        "amount": 952,
+        "effective_date": "2024-10-09"
+      },
+      {
+        "fiscal_year": "令和７年度",
+        "amount": 1023,
+        "effective_date": "2025-12-01"
+      }
+    ]
+  }
+}

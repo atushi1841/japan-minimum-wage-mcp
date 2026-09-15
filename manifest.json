@@ -1,0 +1,101 @@
+{
+  "manifest_version": "0.4",
+  "name": "japan-minimum-wage-mcp",
+  "display_name": "Japan Minimum Wage MCP — 日本の地域別最低賃金（厚生労働省 公式統計）",
+  "version": "0.1.0",
+  "description": "日本の47都道府県の地域別最低賃金（時間額・引上げ額・発効日）を、厚生労働省（MHLW）公式統計から取得してAIエージェントに提供します。毎年10月改定の最新値と、過去24年度（平成14年度〜令和7年度）の改定履歴。",
+  "long_description": "厚生労働省「地域別最低賃金の全国一覧」の公式データ（毎年10月改定）を解析し、AIエージェントから直接照会できるMCPツール群を提供します。\n\n## 提供ツール\n\n| ツール | 内容 |\n|---|---|\n| `get_minimum_wage` | 指定都道府県の最新年度最低賃金時間額＋前年度額＋引上げ額＋発効日（全国加重平均も可） |\n| `get_minimum_wage_history` | 指定都道府県の過去N年度の改定履歴（金額＋発効日、min/max付き） |\n| `rank_minimum_wages` | 47都道府県の時間額ランキング（安い順＋高い順、全国加重平均付き） |\n| `list_prefectures` | 照会可能な都道府県名（漢字・ローマ字）・利用可能年度・最新年度の一覧 |\n\n## なぜこれが必要か\n\nLLMの記憶は設計上すぐに古くなります。最低賃金は毎年10月に改定されるため、エージェントが「現在の正しい最低賃金」を答えるには常に最新の公式ソースが必要です。HR SaaS・給与計算・コンプライアンス・コスト見積もりの自動化に利用できます。\n\n## 動作要件\n\n- 完全ローカル実行（APIキー不要）。同梱シードキャッシュ（data/minwage.json：47都道府県 × 24年度）から即座に応答\n- 依存解決に [uv](https://docs.astral.sh/uv/) を使用（`uv run` 経由で起動、Python 3.10以上）\n- 出典明示で商用利用可（政府標準利用規約2.0）\n- 単位: 円/時間（JPY per hour）",
+  "author": {
+    "name": "atushi1841",
+    "url": "https://github.com/atushi1841"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atushi1841/japan-minimum-wage-mcp"
+  },
+  "homepage": "https://apify.com/fruitful_quintessence/japan-minimum-wage-mcp",
+  "server": {
+    "type": "python",
+    "entry_point": "src/stdio_main.py",
+    "mcp_config": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "${__dirname}",
+        "src/stdio_main.py"
+      ]
+    }
+  },
+  "compatibility": {
+    "platforms": [
+      "darwin",
+      "linux",
+      "win32"
+    ],
+    "runtimes": {
+      "python": ">=3.10"
+    }
+  },
+  "tools": [
+    {
+      "name": "get_minimum_wage",
+      "description": "Get the current regional minimum wage (hourly rate) for a Japanese prefecture.\n\nOfficial MHLW (Ministry of Health, Labour and Welfare) regional minimum wage,\nrevised every October. Returns the latest fiscal-year hourly rate, previous rate,\nthe amount of increase, and the effective date. LLM memory is stale by design —\nthis tool always returns the current official figures.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "prefecture": {
+            "default": "東京",
+            "type": "string",
+            "description": "prefecture name in kanji, romaji, or with 都/府/県 suffix\n        (e.g. 東京, tokyo, 東京都). Use 全国/nationwide for the\n        national weighted average."
+          }
+        },
+        "type": "object"
+      }
+    },
+    {
+      "name": "get_minimum_wage_history",
+      "description": "Get the revision history of a prefecture's minimum wage over recent fiscal years.\n\nOfficial MHLW data back to FY2002 (平成14年度). Returns per-fiscal-year\namount and effective date, plus min/max across the window.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "prefecture": {
+            "default": "東京",
+            "type": "string",
+            "description": "prefecture name (kanji or romaji)"
+          },
+          "years": {
+            "default": 5,
+            "type": "integer",
+            "description": "number of recent fiscal years to return (default 5, max 24)"
+          }
+        },
+        "type": "object"
+      }
+    },
+    {
+      "name": "rank_minimum_wages",
+      "description": "Rank Japan's 47 prefectures by current minimum wage (cheapest first, plus most expensive).\n\nUseful for cost-of-labor comparisons, relocation planning, and HR budgeting.\nNational weighted average is included for reference.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "limit": {
+            "default": 10,
+            "type": "integer",
+            "description": "entries per end of the ranking (default 10, max 47)"
+          }
+        },
+        "type": "object"
+      }
+    },
+    {
+      "name": "list_prefectures",
+      "description": "List all 47 prefectures with romaji aliases and the available fiscal years.\n\nCall this first if unsure which prefecture names are valid, or to discover\nthe historical coverage (平成14年度 through 令和７年度).\n\nReturns:\n    Prefectures with kanji + romaji names, fiscal years available,\n    latest fiscal year, and the national weighted average.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {},
+        "type": "object"
+      }
+    }
+  ]
+}
