@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.atushi1841/japan-minimum-wage-mcp",
+  "description": "Japan minimum wages for all 47 prefectures (MHLW data). Tools: lookup, history, trends.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/atushi1841/japan-minimum-wage-mcp",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/atushi1841/japan-minimum-wage-mcp/releases/download/v0.1.0/server.mcpb",
+      "version": "0.1.0",
+      "fileSha256": "3118a7e27a5af116ee95496c3b4a2a1852599bf362d3c5b4130b03724fcf21b1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
