@@ -78,6 +78,13 @@ python scripts/pack_mcpb.py             # server.mcpb（Smithery 公開用）を
 - `force=True` 指定時のみ MHLW 公式 XLSX を再取得（年 1 回更新のため TTL 24h）
 - 読み取り専用・閉世界（ツールは失敗しない）設計
 
+
+
+## Apify Store
+
+このMCPサーバーは Apify Store でも提供されています:
+
+- **[Apify Store: japan-minimum-wage-mcp](https://apify.com/fruitful_quintessence/japan-minimum-wage-mcp)** — 47都道府県の最低賃金データをPPE課金で提供。Apify StoreからRunボタンで即起動可能。
 ---
 
 出典: 厚生労働省「地域別最低賃金の全国一覧」/ Government Standard Terms of Use 2.0.
