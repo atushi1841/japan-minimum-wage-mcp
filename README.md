@@ -88,3 +88,17 @@ python scripts/pack_mcpb.py             # server.mcpb（Smithery 公開用）を
 ---
 
 出典: 厚生労働省「地域別最低賃金の全国一覧」/ Government Standard Terms of Use 2.0.
+
+## Install via Smithery
+
+Connect this MCP server to your AI client (Claude Desktop, Cursor, VS Code) in one command:
+
+```bash
+npx @smithery/cli install atushi1841/japan-minimum-wage-mcp --client claude
+```
+
+Replace `claude` with `cursor`, `vscode`, or `cline` for other clients.
+
+Alternatively, install directly from the [Smithery registry](https://smithery.ai/server/atushi1841/japan-minimum-wage-mcp).
+
+> **Note:** Smithery server listing is pending verification. Once verified, this server will appear in search results with useCount tracking.
